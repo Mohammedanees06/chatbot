@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fab">#107AE4</color>
+    <color name="backcolor">#27ae60</color>
+    <color name="userbg">#e74c3c</color>
+    <color name="botbgcolor">#9b59b6</color>
+</resources>
